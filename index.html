@@ -113,8 +113,11 @@
 											<div class="slider-text-inner js-fullheight">
 												<div class="desc">
 													<h1>Hi! <br>I'm M.Talha</h1>
-													<!-- <p><a class="btn btn-primary btn-learn">Download CV <i
-																class="icon-download4"></i></a></p> -->
+													<p>
+														<a href="./resume/Muhammad_Talha_Resume.pdf" target="_blank" download class="btn btn-primary btn-learn">Download CV
+															<i class="icon-download4"></i>
+														</a>
+													</p>
 												</div>
 											</div>
 										</div>
@@ -599,6 +602,42 @@
 										</div>
 									</article>
 
+									<article class="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+										<div class="timeline-entry-inner">
+
+											<div class="timeline-icon color-1">
+												<i class="icon-pen2"></i>
+											</div>
+
+											<div class="timeline-label">
+												<h2><a href="#">UI/UX & Angular Developer at VEDevelopers</a>
+													<span>2020-2021</span>
+												</h2>
+												<p>Worked as a UI/UX & Angular Developer. VEDevelopers is primarily a
+													project based company. I have also worked with OpenCart & Some
+													Laravel Projects.</p>
+											</div>
+										</div>
+									</article>
+
+									<article class="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+										<div class="timeline-entry-inner">
+
+											<div class="timeline-icon color-1">
+												<i class="icon-pen2"></i>
+											</div>
+
+											<div class="timeline-label">
+												<h2><a href="#">Freelancer</a>
+													<span>July 2019 - Dec 2019</span>
+												</h2>
+												<p>Worked as a Front-End UI/UX developer and worked on HTML5, CSS3,
+													Bootstrap 3 & 4,JavaScript, Laravel, Angular and OpenCart
+													Applications.</p>
+											</div>
+										</div>
+									</article>
+
 									<!-- <article class="timeline-entry animate-box" data-animate-effect="fadeInLeft">
 										<div class="timeline-entry-inner">
 											<div class="timeline-icon color-3">
@@ -676,7 +715,7 @@
 						<div class="row">
 							<div class="col-md-6 animate-box" data-animate-effect="fadeInLeft">
 								<div class="project" style="background-image: url(images/work-2.png);">
-									<div class="desc">
+									<div class="desc" onclick="openModal(1)">
 										<div class="con">
 											<h3><a href="work.html">Algoras</a></h3>
 											<span>
@@ -696,7 +735,7 @@
 							</div>
 							<div class="col-md-6 animate-box" data-animate-effect="fadeInRight">
 								<div class="project" style="background-image: url(images/work-3.png);">
-									<div class="desc">
+									<div class="desc" onclick="openModal(2)">
 										<div class="con">
 											<h3><a href="work.html">Frontline</a></h3>
 											<span>
@@ -715,11 +754,71 @@
 							</div>
 							<div class="col-md-6 animate-box" data-animate-effect="fadeInTop">
 								<div class="project" style="background-image: url(images/work-1.png);">
-									<div class="desc">
+									<div class="desc" onclick="openModal(3)">
 										<div class="con">
 											<h3><a href="work.html">Labourer Agency</a></h3>
 											<span>
 												<a data-toggle="modal" data-target="#myModal-3"><i
+														class="fal fa-plus img-large-btn"></i>
+												</a>
+											</span>
+											<!-- <p class="icon">
+												<span><a href="#"><i class="icon-share3"></i></a></span>
+												<span><a href="#"><i class="icon-eye"></i> 100</a></span>
+												<span><a href="#"><i class="icon-heart"></i> 49</a></span>
+											</p> -->
+										</div>
+									</div>
+								</div>
+							</div>
+
+							<div class="col-md-6 animate-box" data-animate-effect="fadeInTop">
+								<div class="project" style="background-image: url(images/work-4.png);">
+									<div class="desc" onclick="openModal(4)">
+										<div class="con">
+											<h3><a href="work.html">Bathroom Wall Panels</a></h3>
+											<span>
+												<a data-toggle="modal" data-target="#myModal-4"><i
+														class="fal fa-plus img-large-btn"></i>
+												</a>
+											</span>
+											<!-- <p class="icon">
+												<span><a href="#"><i class="icon-share3"></i></a></span>
+												<span><a href="#"><i class="icon-eye"></i> 100</a></span>
+												<span><a href="#"><i class="icon-heart"></i> 49</a></span>
+											</p> -->
+										</div>
+									</div>
+								</div>
+							</div>
+
+							<div class="col-md-6 animate-box" data-animate-effect="fadeInTop">
+								<div class="project" style="background-image: url(images/work-5.png);">
+									<div class="desc" onclick="openModal(5)">
+										<div class="con">
+											<h3><a href="work.html">Azaan Leather</a></h3>
+											<span>
+												<a data-toggle="modal" data-target="#myModal-5"><i
+														class="fal fa-plus img-large-btn"></i>
+												</a>
+											</span>
+											<!-- <p class="icon">
+												<span><a href="#"><i class="icon-share3"></i></a></span>
+												<span><a href="#"><i class="icon-eye"></i> 100</a></span>
+												<span><a href="#"><i class="icon-heart"></i> 49</a></span>
+											</p> -->
+										</div>
+									</div>
+								</div>
+							</div>
+
+							<div class="col-md-6 animate-box" data-animate-effect="fadeInTop">
+								<div class="project" style="background-image: url(images/work-6.png);">
+									<div class="desc" onclick="openModal(6)">
+										<div class="con">
+											<h3><a href="work.html">Temping Agency</a></h3>
+											<span>
+												<a data-toggle="modal" data-target="#myModal-6"><i
 														class="fal fa-plus img-large-btn"></i>
 												</a>
 											</span>
@@ -967,6 +1066,57 @@
 			<div class="modal-content">
 				<div class="modal-body">
 					<img class="img-responsive" src="images/work-1.png" alt="">
+				</div>
+				<div class="modal-footer">
+					<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+				</div>
+			</div>
+
+		</div>
+	</div>
+
+	<!-- Modal -->
+	<div class="modal fade" id="myModal-4" role="dialog">
+		<div class="modal-dialog" style="width: 1000px">
+
+			<!-- Modal content-->
+			<div class="modal-content">
+				<div class="modal-body">
+					<img class="img-responsive" src="images/work-4.png" alt="">
+				</div>
+				<div class="modal-footer">
+					<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+				</div>
+			</div>
+
+		</div>
+	</div>
+
+	<!-- Modal -->
+	<div class="modal fade" id="myModal-5" role="dialog">
+		<div class="modal-dialog" style="width: 1000px">
+
+			<!-- Modal content-->
+			<div class="modal-content">
+				<div class="modal-body">
+					<img class="img-responsive" src="images/work-5.png" alt="">
+				</div>
+				<div class="modal-footer">
+					<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+				</div>
+			</div>
+
+		</div>
+	</div>
+
+	<!-- Modal -->
+	<div class="modal fade" id="myModal-6" role="dialog">
+		<div class="modal-dialog" style="width: 1000px">
+
+			<!-- Modal content-->
+			<div class="modal-content">
+				<div class="modal-body">
+					<img class="img-responsive" src="images/work-6.png" alt="">
 				</div>
 				<div class="modal-footer">
 					<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
