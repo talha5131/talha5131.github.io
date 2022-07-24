@@ -19,6 +19,21 @@ function openModal(x) {
             $('#myModal-6').modal('show');
             break;
         default:
-            // Do Nothing
+        // Do Nothing
     }
+}
+
+window.onbeforeunload = function () {
+    window.scrollTo(0, 0);
+  }
+
+function sendMail() {
+    var x = document.getElementById("snackbar");
+    setTimeout(() => {
+        x.className = "show";
+    }, 1500);
+    setTimeout(() => {
+        x.className = x.className.replace("show", "");
+        window.location.reload();
+    }, 4500);
 }

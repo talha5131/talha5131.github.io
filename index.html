@@ -1005,14 +1005,15 @@
 													placeholder="Message"></textarea>
 											</div>
 											<div class="form-group">
-												<input type="submit" class="btn btn-primary btn-send-message"
-													value="Send Message">
+												<button type="button" onclick="sendMail()" class="btn btn-primary btn-send-message" value="Send Message">
+													Send Message
+												</button>
 											</div>
 										</form>
 										<p class="form-messege"
 											style="font-size: 12px; font-weight:normal;color: rgba(0,0,0,0.7);"></p>
 									</div>
-
+									<div id="snackbar">Your Message Has Been Sent.</div>
 								</div>
 							</div>
 						</div>
