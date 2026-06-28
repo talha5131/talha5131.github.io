@@ -1,0 +1,85 @@
+Muhammad Talha Safdar
+Full Stack JavaScript/TypeScript Developer | Angular | React | Node.js
+Lahore, Pakistan | talhamalik4147@gmail.com | +92 300 487 9333
+Portfolio: https://talha5131.github.io/
+GitHub: https://github.com/talha5131
+LinkedIn: https://www.linkedin.com/in/talha5131/
+
+PROFESSIONAL SUMMARY
+Full Stack JavaScript/TypeScript Developer with 6+ years of experience building responsive, scalable, and production-ready web applications across frontend, backend/API, and full-stack JavaScript workflows. Strong hands-on experience with Angular, React, Node.js, TypeScript, JavaScript, HTML5, CSS3, Bootstrap, Angular Material, Material UI, REST APIs, GraphQL APIs, Firebase, Firestore, authentication workflows, JSON payload handling, and API-integrated features. Experienced in enterprise dashboards, ERP/CRM-style systems, admin panels, PDF signature interfaces, reusable UI components, role-based workflows, validation, debugging, performance optimization, and clean component-based architecture.
+
+TECHNICAL PROFICIENCIES
+Languages: JavaScript, TypeScript, HTML5, CSS3
+Frontend Development: Angular, React, RxJS, Angular Forms, Reactive Forms, Angular Routing, Angular Services, Guards, Pipes, Directives, Lazy Loading, Angular CLI, React Components, Hooks, State Handling, Single Page Applications
+UI Frameworks & Styling: Bootstrap, Angular Material, Material UI, jQuery, Responsive Design, Mobile-Friendly Layouts, Admin Dashboards, ERP Interfaces, CRM Interfaces, Form Validation
+Backend & Full-Stack: Node.js, Server-Side JavaScript, REST API Development/Integration, JSON, API Contracts, Request/Response Handling, Validation Logic, Error Handling, Authentication Workflows, Firebase, Firestore, npm
+API & Data Workflows: REST APIs, GraphQL APIs, CRUD Workflows, Data Fetching, Data Updating, Search, Filtering, Loading States, Error States, Real-Time Application Features
+Tools & Workflow: Git, GitHub, Bitbucket, VS Code, Postman, Chrome DevTools, Jira, Debugging, Production Bug Fixing, Code Maintainability
+Additional Technologies: Mapbox, GeoJSON, Lodash, Moment.js, PDF Signature Interfaces, PDF Export Workflows, OpenCart, Laravel-Based Templates
+
+WORK EXPERIENCE
+Senior Software Engineer - Angular Developer | Ascertia (Pvt) Ltd, Lahore
+Sept 2022 to Present
+Worked on ADSS Server, an enterprise-grade administration and access management system used for configuring, managing, and monitoring secure digital service workflows.
+- Developed and maintained Angular-based admin modules for ADSS Server, including access management, configuration workflows, enterprise administration screens, and PDF digital signature features.
+- Designed and implemented frontend interfaces for PDF signature appearance and placement workflows, including configuration screens, form-based inputs, validation handling, status views, and API-integrated user actions.
+- Built responsive UI screens using Angular, TypeScript, JavaScript, HTML5, CSS3, Bootstrap, and Angular Material.
+- Created reusable frontend components including forms, tables, filters, modals, dropdowns, validation controls, detail views, and dashboard-style interfaces to improve maintainability.
+- Integrated REST APIs for fetching, displaying, updating, and validating system-level configuration and PDF signing-related data.
+- Implemented role-based UI behavior to show, hide, or restrict actions based on user permissions and workflow requirements.
+- Collaborated with backend teams on API contracts, payload structures, validation rules, and backend service integration points where required.
+- Fixed frontend bugs, layout issues, validation problems, and API integration defects across multiple production modules.
+
+Angular Developer | Intellicode, Lahore
+Dec 2021 to Sept 2022
+Worked on Algoras ERP, a business management system designed to handle internal operations, records, workflows, and administrative processes.
+- Developed and maintained ERP modules using Angular, TypeScript, JavaScript, HTML5, CSS3, Bootstrap, and Angular Material.
+- Built business workflow screens for managing records, forms, user actions, reports, administrative data, and internal business processes.
+- Created reusable UI components for dynamic forms, data tables, modals, filters, dropdowns, and detail pages.
+- Integrated REST APIs to support data creation, updates, search, filtering, validation, and error handling.
+- Improved frontend maintainability by organizing screens into modular Angular components, services, and reusable UI patterns.
+- Collaborated with backend developers and QA teams to resolve API issues, UI bugs, and workflow defects.
+
+Full-Stack JavaScript Developer | VEDevelopers, Lahore
+Jan 2020 to Dec 2021
+Worked as a Full-Stack JavaScript Developer, building responsive web application interfaces and supporting complete application workflows using JavaScript technologies.
+- Developed responsive frontend screens using HTML5, CSS3, JavaScript, Bootstrap, Angular, React.js, and jQuery.
+- Worked on business web applications including CRM-style and ERP-style interfaces, admin panels, forms, dashboards, and user-facing modules.
+- Integrated frontend applications with APIs and Firebase-based workflows, including authentication, data handling, and real-time application features where required.
+- Contributed to full-stack JavaScript workflows using Node.js, Firebase, API integrations, and frontend application logic to support end-to-end feature delivery.
+- Improved UI layouts, fixed bugs, enhanced responsiveness, and helped deliver clean, usable, and business-ready web application features.
+- Collaborated across frontend and backend tasks to convert business requirements into working application screens, workflows, and API-connected features.
+
+Front-End Developer | Freelancer, Lahore
+Jul 2019 to Dec 2019
+Worked as a freelance Front-End UI/UX Developer on web application interfaces and business website features.
+- Built frontend screens using HTML5, CSS3, Bootstrap 3 and 4, JavaScript, Laravel-based templates, Angular, and OpenCart applications.
+- Implemented layout fixes, responsive behavior, and UI improvements for client-facing web pages.
+
+UI/UX Intern | Encapsulate Technologies, Lahore
+Mar 2019 to Aug 2019
+Worked on HTML, CSS, Bootstrap, and JavaScript to build and improve responsive user interfaces.
+
+SELECTED FULL-STACK & JAVASCRIPT PROJECT HIGHLIGHTS
+ADSS Server / PDF Signature Workflows: Developed Angular-based enterprise administration screens and PDF signature workflow interfaces, including signature appearance and placement configuration, validation handling, status views, role-based actions, and REST API-integrated user flows.
+Algoras ERP: Built Angular-based ERP modules for business workflows, records management, dynamic forms, data tables, filters, validation flows, administrative actions, and API-integrated screens.
+React QA / Translation Dashboard: Built React and Material UI dashboard features for translation workflows, grouped data views, editable table fields, role-based actions, GraphQL API integration, and real-time workflow updates.
+Firebase & API-Based Web Workflows: Supported API-connected and Firebase-based application features including authentication workflows, data handling, real-time updates, and full-stack JavaScript feature delivery where required.
+
+RELEVANT TRAINING
+- NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno) - Udemy
+- Hands-on JavaScript/TypeScript development across Angular, React, Node.js, REST APIs, GraphQL APIs, Firebase, and business web application workflows.
+
+EDUCATION
+University of South Asia, Lahore
+BS Computer Science (BSCS), 2015 to 2019
+Graduated with 3.0 CGPA.
+Garrison Degree College, Lahore
+F.Sc. Pre-Engineering, 2011 to 2013
+Completed Intermediate in Pre-Engineering with 70% marks.
+Garrison Boys High School, Lahore
+Matriculation, 2009 to 2011
+Completed Matriculation with Computer Sciences and achieved 84% marks.
+
+LANGUAGES
+English
